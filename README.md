@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @f4rh4d-4hmed
+- 👋 Hi, I’m Farhad Ahmed
 - 👀 I’m interested in Python, Kotlin, Dart :)
 - 🌱 I’m still learning
 ## ***"I make things that I need and share things that I feel other may need. Coding is my hobby."***
